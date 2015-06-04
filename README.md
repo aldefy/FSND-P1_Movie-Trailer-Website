@@ -18,7 +18,7 @@ Additionally to the OMDb-Infos, an English trailer from [YouTube][4] is added fo
 [Python 2.7][5] installed
 
 # Running Instructions
-Generate the HTML page "fresh_tomatoes.html" by running
+Generate the file `fresh_tomatoes.html`by running
 
     python entertainment_center.py
 from the command prompt. By clicking on the movies, a modal opens up and the trailer is played.
