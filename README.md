@@ -3,7 +3,7 @@ A simple movie trailer website to exercise some programming foundations with pyt
 
 **Note:** This is a solution to project 1 of the [Udacity Full Stack Web Developer Nanodegree][1] based on the course [Programming Foundations with Python (ud036)][2]. The solution is graded with "Exceeds Specifications".
 
-# Detailed Description
+## Detailed Description
 The website shows nine of my favorite movies with additional infos pulled from the [OMDb API][3]:
 - Poster image
 - Title
@@ -14,10 +14,10 @@ The website shows nine of my favorite movies with additional infos pulled from t
 
 Additionally to the OMDb-Infos, an English trailer from [YouTube][4] is added for each of the movies.
 
-# Requirements
+## Requirements
 [Python 2.7][5] installed
 
-# Running Instructions
+## Running Instructions
 Generate the file `fresh_tomatoes.html`by running
 
     python entertainment_center.py
