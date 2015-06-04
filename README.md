@@ -18,7 +18,7 @@ Additionally to the OMDb-Infos, an English trailer from [YouTube][4] is added fo
 [Python 2.7][5] installed
 
 ## Running Instructions
-Generate the file `fresh_tomatoes.html`by running `python entertainment_center.py` from the command prompt. By clicking on the movies, a modal opens up and the trailer is played.
+Generate the file `fresh_tomatoes.html`by running `$ python entertainment_center.py` from the command prompt. By clicking on the movies, a modal opens up and the trailer is played.
 
 [1]: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004 "Udacity Nanodegree: Full Stack Web Developer"
 [2]: https://www.udacity.com/course/programming-foundations-with-python--ud036-nd "Udacity Course: Programming Foundations with Python"
