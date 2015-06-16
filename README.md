@@ -1,6 +1,8 @@
 # Website: movie favorites.
 Simple movie trailer website to exercise some programming foundations with python.
 
+![](http://image-store.slidesharecdn.com/c88c88e8-af48-4586-9290-c5faf39499b5-large.jpeg)
+
 **Note:** This is a solution to project 1 of the [Udacity Full Stack Web Developer Nanodegree][1] based on the course [Programming Foundations with Python (ud036)][2]. The solution is graded with "Exceeds Specifications".
 
 ## Detailed Description
